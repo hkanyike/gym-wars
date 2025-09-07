@@ -1,0 +1,18 @@
+{
+  "participants": [
+    {
+      "email": "alex@example.com",
+      "firstName": "Alex",
+      "lastName": "R",
+      "role": "Trainer",
+      "joinCurrentEvent": true,
+      "events": [
+        "2025-08-16"
+      ],
+      "id": "tx35j3v1caa7wbh7yixkq3",
+      "createdAt": "2025-09-07T06:18:54.413Z",
+      "updatedAt": "2025-09-07T06:19:52.660Z",
+      "phone": "555-0000"
+    }
+  ]
+}

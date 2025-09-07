@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1e602e74-af89-4617-bcb0-a442eba4dc4e",
+    "businessName": "test",
+    "email": "hkanyike@gmail.com",
+    "city": "edgewater",
+    "state": "New Jersey",
+    "boothSize": "10x10",
+    "website": "",
+    "agree": true,
+    "createdAt": "2025-09-06T20:58:54.663Z"
+  },
+  {
+    "id": "cb80586a-e0e5-4913-90a0-5a0f9387119f",
+    "businessName": "Kool Nurtrition",
+    "email": "hkanyike@gmail.com",
+    "city": "new york",
+    "state": "New York",
+    "boothSize": "10x10",
+    "website": "",
+    "agree": true,
+    "createdAt": "2025-09-06T22:55:13.511Z"
+  }
+]

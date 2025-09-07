@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7acadebe-a4fc-4a7d-9544-7887fbc7b17a",
+    "firstName": "hayes",
+    "lastName": "Kanyike",
+    "email": "h4fitness@gmail.com",
+    "phone": "9148033234",
+    "role": "Trainer",
+    "emergencyName": "Hayes Kanyike",
+    "emergencyPhone": "9148033865",
+    "gymId": "hayes-fitness",
+    "createdAt": "2025-09-06T22:44:18.685Z"
+  },
+  {
+    "id": "c297a5b4-48ed-4047-b67b-fc9d0c535bce",
+    "firstName": "Yan",
+    "lastName": "Chi",
+    "email": "h4fitness@gmail.com",
+    "phone": "9148033234",
+    "role": "Member",
+    "emergencyName": "Hayes Kanyike",
+    "emergencyPhone": "9148033865",
+    "gymId": "hogan-gym",
+    "createdAt": "2025-09-06T22:53:36.921Z"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "tbtfitnessstudios",
+    "name": "TBT Fitness Studios",
+    "city": "Fort Lee",
+    "state": "NJ",
+
+    "buyInPoints": 10,
+
+    "burpeeDeadliftPoints": 4,
+    "burpeeDeadliftTime": "4:12",
+
+    "lungeRelayPoints": 5,
+    "lungeRelayTime": "",
+
+    "pullSprintPoints": 0,
+    "pullSprintTime": "",
+
+    "pushTirePoints": 5,
+    "pushTireTime": "",
+
+    "trainers": 0,
+    "members": 0,
+
+    "totalScore": 24
+  },
+  {
+    "id": "basecampedgewater",
+    "name": "Basecamp Edgewater",
+    "city": "Edgewater",
+    "state": "NJ",
+
+    "buyInPoints": 10,
+
+    "burpeeDeadliftPoints": 4,
+    "burpeeDeadliftTime": "4:12",
+
+    "lungeRelayPoints": 3,
+    "lungeRelayTime": "",
+
+    "pullSprintPoints": 0,
+    "pullSprintTime": "",
+
+    "pushTirePoints": 5,
+    "pushTireTime": "",
+
+    "trainers": 0,
+    "members": 0,
+
+    "totalScore": 22
+  },
+  {
+    "id": "anytimecliffsidepark",
+    "name": "Anytime Fitness Cliffside Park",
+    "city": "Cliffside Park",
+    "state": "NJ",
+
+    "buyInPoints": 10,
+
+    "burpeeDeadliftPoints": 4,
+    "burpeeDeadliftTime": "4:12",
+
+    "lungeRelayPoints": 3,
+    "lungeRelayTime": "",
+
+    "pullSprintPoints": 0,
+    "pullSprintTime": "",
+
+    "pushTirePoints": 5,
+    "pushTireTime": "",
+
+    "trainers": 0,
+    "members": 0,
+
+    "totalScore": 22
+  },
+  {
+    "id": "striivenj",
+    "name": "Striive NJ",
+    "city": "Teaneck",
+    "state": "NJ",
+
+    "buyInPoints": 10,
+
+    "burpeeDeadliftPoints": 5,
+    "burpeeDeadliftTime": "4:00",
+
+    "lungeRelayPoints": 4,
+    "lungeRelayTime": "",
+
+    "pullSprintPoints": 0,
+    "pullSprintTime": "",
+
+    "pushTirePoints": 3,
+    "pushTireTime": "",
+
+    "trainers": 0,
+    "members": 0,
+
+    "totalScore": 22
+  }
+]
